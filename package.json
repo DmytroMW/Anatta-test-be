@@ -1,0 +1,12 @@
+{
+  "name": "anatta-test-be",
+  "version": "1.0.0",
+  "description": "Test assignment for the Anatta",
+  "private": true,
+  "main": "app.js",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "graphql-request": "^6.1.0"
+  }
+}
